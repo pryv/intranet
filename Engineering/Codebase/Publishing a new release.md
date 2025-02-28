@@ -1,3 +1,4 @@
 # Publishing a new release of Pryv.io
+# Publishing a new release of Pryv.io
 
-TODO as per 2025 Open-sourcing
+[Open a new issue on this repo](https://github.com/pryv/intranet/issues/new/choose) and choose the template "Publish a Pryv.io release" ([template source](https://github.com/pryv/intranet/blob/master/.github/ISSUE_TEMPLATE/publishing-a-pryv-io-release.md)).
