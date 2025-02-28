@@ -1,0 +1,123 @@
+
+
+rootStreamId: &rootStreamId '/'
+
+streamId: &streamID 'refers to StreamId calling manage'
+
+params:
+  streamAll: &streamsAll {includes : [*rootStreamId]}
+  eventsAll: &eventsAll {}
+
+
+// Prospctive work on how config files would look like
+
+
+levels: // &streamId refers to StreamId calling manage 
+  tags:
+    manage:
+      events:
+        create: {tags : [*tag]} 
+        update: {tags : [*tag]}
+        delete: {tags : [*tag]}
+        get: {tags  : [*tag]}
+        start: {tags : [*tag]}
+        stop: {tags : [*tag]}
+
+    read:
+      events:
+        create: {tags : []} 
+        update: {tags : []}
+        delete: {tags : []}
+        get: {tags  : [*tag]}
+        start: {tags : []}
+        stop: {tags : []}
+
+
+// use cases to test 
+
+Permissions
+
+
+// inScopeOf == The stream and its sub-streams
+// exclude == Exclude from allowed Scope the streams and its sub-streams
+
+
+  streams:
+    manage:
+      streams:
+        create: {inScopeOf : [*streamId]}
+        update: {inScopeOf : [*streamId]}
+        get: {}
+        delete: {inScopeOf : [*streamId]}
+      events:
+        create: {inScopeOf : [*streamId]} 
+        update: {inScopeOf : [*streamId]}
+        delete: {inScopeOf : [*streamId]}
+        get: {inScopeOf  : [*streamId]}
+        start: {inScopeOf : [*streamId]}
+        stop: {inScopeOf : [*streamId]}
+
+    read:
+      streams:
+        create: {exclude : [*streamId]}
+        update: {exclude : [*streamId]}
+        get: {}
+        delete: {exclude : [*streamId]}
+      events:
+        create: {exclude : [*streamId]} 
+        update: {exclude : [*streamId]}
+        delete: {exclude : [*streamId]}
+        get: {inScopeOf  : [*streamId]}
+        start: {exclude : [*streamId]}
+        stop: {exclude : [*streamId]}
+
+
+    contribute:
+       streams:
+        create: {exclude : [*streamId]}
+        update: {exclude : [*streamId]}
+        get: {}
+        delete: {exclude : [*streamId]}
+      events:
+        create: {inScopeOf : [*streamId]} 
+        update: {inScopeOf : [*streamId]}
+        delete: {inScopeOf : [*streamId]}
+        get: {inScopeOf  : [*streamId]}
+        start: {inScopeOf : [*streamId]}
+        stop: {inScopeOf : [*streamId]}
+
+    contribute_onlynotes:
+       streams:
+        create: {exclude : [*streamId]}
+        update: {exclude : [*streamId]}
+        get: {}
+        delete: {exclude : [*streamId]}
+      events:
+        create: 
+          inScopeOf : [*streamId]
+          query:
+            types: ['note/txt']
+        update: {inScopeOf : [*streamId]}
+        delete: {inScopeOf : [*streamId]}
+        get: {inScopeOf  : [*streamId]}
+        start: {inScopeOf : [*streamId]}
+        stop: {inScopeOf : [*streamId]}
+
+    none: 
+      streams:
+        create: {exclude : [*streamId]}
+        update: {exclude : [*streamId]}
+        get: {exclude : [*streamId]} // ??????
+        delete: {exclude : [*streamId]}
+      events:
+        create: {exclude : [*streamId]}
+        update: {exclude : [*streamId]}
+        delete: {exclude : [*streamId]}
+        get: {exclude : [*streamId]}
+        start: {exclude : [*streamId]}
+        stop: {exclude : [*streamId]}
+
+
+types:
+  app:
+    access.info 

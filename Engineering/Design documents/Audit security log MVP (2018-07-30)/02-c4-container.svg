@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="637.5 271 898.5 873.6353" width="898.5" height="873.6353">
+  <defs>
+    <clipPath id="artboard_clip_path">
+      <path d="M 637.5 271 L 1536 271 L 1536 1144.6353 L 637.5 1144.6353 Z"/>
+    </clipPath>
+    <font-face font-family="Roboto" font-size="16" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="1047.8516" descent="-270.9961" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Roboto-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="10" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="1047.8516" descent="-270.9961" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="13" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="1047.8516" descent="-270.9961" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#c8c8c8">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Roboto" font-size="12" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="1047.8516" descent="-270.9961" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2018-07-30 07:46:25 +0000</dc:date>
+  </metadata>
+  <g id="Pryv_IO_Container_Level" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>Pryv.IO Container Level</title>
+    <rect fill="white" x="637.5" y="271" width="898.5" height="873.6353"/>
+    <g id="Pryv_IO_Container_Level: Layer 1" clip-path="url(#artboard_clip_path)">
+      <title>Layer 1</title>
+      <g id="Graphic_15">
+        <path d="M 638 515.1353 L 1316 515.1353 L 1316 1144.1353 L 638 1144.1353 Z" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+        <text transform="translate(643 1105.6353)" fill="black">
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="black" x="0" y="17">Pryv.IO</tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="black" x="0" y="31">[software system]</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <rect x="1347" y="679.8647" width="189" height="121" fill="#999"/>
+        <text transform="translate(1352 687.3647)" fill="white">
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="65.99609" y="17">syslog</tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="49.319336" y="31">[software system]</tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="18.952148" y="66">Receives messages and </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="2.4069824" y="84">handles (stores/forwards) the </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="53.73413" y="102">information.</tspan>
+        </text>
+      </g>
+      <g id="Group_11">
+        <g id="Graphic_13">
+          <path d="M 907 333 L 1046 333 C 1059.8071 333 1071 344.1929 1071 358 L 1071 429 C 1071 442.8071 1059.8071 454 1046 454 L 907 454 C 893.1929 454 882 442.8071 882 429 L 882 358 C 882 344.1929 893.1929 333 907 333 Z" fill="#08427b"/>
+          <text transform="translate(887 358.5)" fill="white">
+            <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="53.89844" y="17">API Client</tspan>
+            <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="71.30664" y="31">[person]</tspan>
+            <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="13.372559" y="66">A client of the Pryv.IO API.</tspan>
+          </text>
+        </g>
+        <g id="Graphic_12">
+          <circle cx="976.5" cy="307.5" r="36.5000583234193" fill="#08427b"/>
+        </g>
+      </g>
+      <g id="Line_10">
+        <line x1="976.5" y1="454" x2="976.5" y2="527.1" marker-end="url(#StickArrow_Marker)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_9">
+        <rect x="949" y="473.1353" width="55" height="42" fill="white"/>
+        <text transform="translate(954 478.1353)" fill="#515556">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#515556" x="9.641602" y="13">uses</tspan>
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#515556" x=".40722656" y="29">[HTTPS]</tspan>
+        </text>
+      </g>
+      <g id="Line_8">
+        <line x1="1071" y1="740.3647" x2="1337.1" y2="740.3647" marker-end="url(#StickArrow_Marker)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_7">
+        <rect x="1160.2427" y="726.8647" width="82" height="27" fill="white"/>
+        <text transform="translate(1165.2427 732.3647)" fill="#515556">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#515556" x=".13476562" y="13">Logs via UDP</tspan>
+        </text>
+      </g>
+      <g id="Group_4">
+        <g id="Graphic_6">
+          <path d="M 1372 333 L 1511 333 C 1524.8071 333 1536 344.1929 1536 358 L 1536 429 C 1536 442.8071 1524.8071 454 1511 454 L 1372 454 C 1358.1929 454 1347 442.8071 1347 429 L 1347 358 C 1347 344.1929 1358.1929 333 1372 333 Z" fill="#08427b"/>
+          <text transform="translate(1352 340.5)" fill="white">
+            <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="33.347656" y="17">Security Officer</tspan>
+            <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="71.30664" y="31">[person]</tspan>
+            <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="7.459717" y="66">Anyone wanting to audit the </tspan>
+            <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="7.5200195" y="84">Pryv.IO instance for security </tspan>
+            <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="60.90698" y="102">breaches.</tspan>
+          </text>
+        </g>
+        <g id="Graphic_5">
+          <circle cx="1441.5" cy="307.5" r="36.5000583234193" fill="#08427b"/>
+        </g>
+      </g>
+      <g id="Line_3">
+        <line x1="1441.5" y1="454" x2="1441.5" y2="669.9647" marker-end="url(#StickArrow_Marker)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2">
+        <rect x="1407" y="553.7571" width="69" height="27" fill="white"/>
+        <text transform="translate(1412 559.2571)" fill="#515556">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#515556" x=".28222656" y="13">supervises</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <rect x="882" y="831" width="189" height="121" fill="#438dd5"/>
+        <rect x="882" y="831" width="189" height="121" stroke="#3b7ebf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(887 838.5)" fill="white">
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="78.55078" y="17">api</tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="25.225098" y="31">[container: nodejs &amp; express]</tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="21.649902" y="66">Handles most API calls </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="20.42163" y="84">dealing with events and </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="20.850098" y="102">streams. Authorisation.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <rect x="1088" y="831" width="189" height="121" fill="#438dd5"/>
+        <rect x="1088" y="831" width="189" height="121" stroke="#3b7ebf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1093 847.5)" fill="white">
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="78" y="17">hfs</tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="25.225098" y="31">[container: nodejs &amp; express]</tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="25.66797" y="66">Fast-path API for high </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="24.81421" y="84">frequency series data.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_18">
+        <rect x="676" y="831" width="189" height="121" fill="#438dd5"/>
+        <rect x="676" y="831" width="189" height="121" stroke="#3b7ebf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(681 847.5)" fill="white">
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="61.66406" y="17">preview</tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="25.225098" y="31">[container: nodejs &amp; express]</tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="8.640381" y="66">Handles image rotation and </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="32.2854" y="84">preview generation.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_19">
+        <rect x="882" y="537" width="189" height="121" fill="#438dd5"/>
+        <rect x="882" y="537" width="189" height="121" stroke="#3b7ebf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(887 544.5)" fill="white">
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="30.007812" y="17">SSL Termination</tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="51.14551" y="31">[container: nginx]</tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="21.649902" y="66">Handles most API calls </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="20.42163" y="84">dealing with events and </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="20.850098" y="102">streams. Authorisation.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_20">
+        <rect x="882" y="679.8647" width="189" height="121" fill="#438dd5"/>
+        <rect x="882" y="679.8647" width="189" height="121" stroke="#3b7ebf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(887 696.3647)" fill="white">
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="65.35156" y="17">Router</tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="39.626953" y="31">[container: rust/SOZU]</tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="8.57373" y="66">Reverse proxies requests to </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="33.640625" y="84">various containers.</tspan>
+        </text>
+      </g>
+      <g id="Line_21">
+        <line x1="976.5" y1="658" x2="976.5" y2="669.9647" marker-end="url(#StickArrow_Marker)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_22">
+        <line x1="894.0375" y1="800.8647" x2="860.9447" y2="825.1438" marker-end="url(#StickArrow_Marker)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_23">
+        <line x1="976.5" y1="800.8647" x2="976.5" y2="821.1" marker-end="url(#StickArrow_Marker)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_24">
+        <line x1="1058.9625" y1="800.8647" x2="1092.0553" y2="825.1438" marker-end="url(#StickArrow_Marker)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_25">
+        <path d="M 773 1091.0353 L 773 994.2353 C 773 987.5561 815.336 982.1353 867.5 982.1353 C 919.664 982.1353 962 987.5561 962 994.2353 L 962 1091.0353 C 962 1097.7145 919.664 1103.1353 867.5 1103.1353 C 815.336 1103.1353 773 1097.7145 773 1091.0353" fill="#438dd5"/>
+        <path d="M 773 1091.0353 L 773 994.2353 C 773 987.5561 815.336 982.1353 867.5 982.1353 C 919.664 982.1353 962 987.5561 962 994.2353 L 962 1091.0353 C 962 1097.7145 919.664 1103.1353 867.5 1103.1353 C 815.336 1103.1353 773 1097.7145 773 1091.0353 M 773 994.2353 C 773 1000.9145 815.336 1006.3353 867.5 1006.3353 C 919.664 1006.3353 962 1000.9145 962 994.2353" stroke="#3b7ebf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(778 1004.6853)" fill="white">
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="8.746094" y="17">Metadata / Main Store</tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="42.024414" y="31">[container: mongodb]</tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="3.559082" y="66">Stores document-based user-</tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="52.86133" y="84">related data.</tspan>
+        </text>
+      </g>
+      <g id="Line_26">
+        <line x1="932.8669" y1="952" x2="915.9839" y2="975.4094" marker-end="url(#StickArrow_Marker)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_27">
+        <line x1="809.3294" y1="952" x2="823.9835" y2="974.8324" marker-end="url(#StickArrow_Marker)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_28">
+        <path d="M 1088 1091.0353 L 1088 994.2353 C 1088 987.5561 1130.336 982.1353 1182.5 982.1353 C 1234.664 982.1353 1277 987.5561 1277 994.2353 L 1277 1091.0353 C 1277 1097.7145 1234.664 1103.1353 1182.5 1103.1353 C 1130.336 1103.1353 1088 1097.7145 1088 1091.0353" fill="#438dd5"/>
+        <path d="M 1088 1091.0353 L 1088 994.2353 C 1088 987.5561 1130.336 982.1353 1182.5 982.1353 C 1234.664 982.1353 1277 987.5561 1277 994.2353 L 1277 1091.0353 C 1277 1097.7145 1234.664 1103.1353 1182.5 1103.1353 C 1130.336 1103.1353 1088 1097.7145 1088 1091.0353 M 1088 994.2353 C 1088 1000.9145 1130.336 1006.3353 1182.5 1006.3353 C 1234.664 1006.3353 1277 1000.9145 1277 994.2353" stroke="#3b7ebf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1093 1003.1853)" fill="white">
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="14.511719" y="17">High Frequency Data </tspan>
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="70.08203" y="38">Store</tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="45.3667" y="52">[container: influxdb]</tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="4.4033203" y="87">Stores high-frequency series.</tspan>
+        </text>
+      </g>
+      <g id="Line_29">
+        <line x1="1182.5" y1="952" x2="1182.5" y2="972.2353" marker-end="url(#StickArrow_Marker)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

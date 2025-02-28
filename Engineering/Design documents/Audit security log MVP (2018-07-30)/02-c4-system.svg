@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="264 32 487 394" width="487" height="394">
+  <defs>
+    <font-face font-family="Roboto" font-size="16" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="1047.8516" descent="-270.9961" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Roboto-Bold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="10" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="1047.8516" descent="-270.9961" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Roboto" font-size="13" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="1047.8516" descent="-270.9961" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#c8c8c8">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Roboto" font-size="12" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="528.3203" cap-height="710.9375" ascent="1047.8516" descent="-270.9961" font-weight="400">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="StickArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="#c8c8c8">
+      <g>
+        <path d="M 8 0 L 0 0 M 0 -3 L 8 0 L 0 3" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.8.1 
+    <dc:date>2018-07-30 07:29:35 +0000</dc:date>
+  </metadata>
+  <g id="System_Level" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
+    <title>System Level</title>
+    <rect fill="white" x="264" y="32" width="487" height="394"/>
+    <g id="System_Level: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="264" y="304.5" width="189" height="121" fill="#1168bd"/>
+        <text transform="translate(269 321)" fill="white">
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="63.61328" y="17">Pryv.IO</tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="49.319336" y="31">[software system]</tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="25.068115" y="66">Logs security-relevant </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="25.468018" y="84">information to syslog.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <rect x="562" y="304.5" width="189" height="121" fill="#999"/>
+        <text transform="translate(567 312)" fill="white">
+          <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="65.99609" y="17">syslog</tspan>
+          <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="49.319336" y="31">[software system]</tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="18.952148" y="66">Receives messages and </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="2.4069824" y="84">handles (stores/forwards) the </tspan>
+          <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="53.73413" y="102">information.</tspan>
+        </text>
+      </g>
+      <g id="Group_9">
+        <g id="Graphic_6">
+          <path d="M 289 94 L 428 94 C 441.8071 94 453 105.19288 453 119 L 453 190 C 453 203.80712 441.8071 215 428 215 L 289 215 C 275.19288 215 264 203.80712 264 190 L 264 119 C 264 105.19288 275.19288 94 289 94 Z" fill="#08427b"/>
+          <text transform="translate(269 119.5)" fill="white">
+            <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="53.89844" y="17">API Client</tspan>
+            <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="71.30664" y="31">[person]</tspan>
+            <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="13.372559" y="66">A client of the Pryv.IO API.</tspan>
+          </text>
+        </g>
+        <g id="Graphic_8">
+          <circle cx="358.5" cy="68.5" r="36.5000583234192" fill="#08427b"/>
+        </g>
+      </g>
+      <g id="Line_10">
+        <line x1="358.5" y1="215" x2="358.5" y2="294.6" marker-end="url(#StickArrow_Marker)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_11">
+        <rect x="340.5" y="244.77844" width="36" height="27" fill="white"/>
+        <text transform="translate(345.5 250.27844)" fill="#515556">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#515556" x=".14160156" y="13">uses</tspan>
+        </text>
+      </g>
+      <g id="Line_13">
+        <line x1="453" y1="365" x2="552.1" y2="365" marker-end="url(#StickArrow_Marker_2)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_14">
+        <rect x="463.43645" y="351.5" width="82" height="27" fill="white"/>
+        <text transform="translate(468.43645 357)" fill="#515556">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#515556" x=".13476562" y="13">Logs via UDP</tspan>
+        </text>
+      </g>
+      <g id="Group_15">
+        <g id="Graphic_17">
+          <path d="M 587 94 L 726 94 C 739.8071 94 751 105.19288 751 119 L 751 190 C 751 203.80712 739.8071 215 726 215 L 587 215 C 573.1929 215 562 203.80712 562 190 L 562 119 C 562 105.19288 573.1929 94 587 94 Z" fill="#08427b"/>
+          <text transform="translate(567 101.5)" fill="white">
+            <tspan font-family="Roboto" font-size="16" font-weight="700" fill="white" x="33.347656" y="17">Security Officer</tspan>
+            <tspan font-family="Roboto" font-size="10" font-weight="400" fill="white" x="71.30664" y="31">[person]</tspan>
+            <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="7.459717" y="66">Anyone wanting to audit the </tspan>
+            <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="7.5200195" y="84">Pryv.IO instance for security </tspan>
+            <tspan font-family="Roboto" font-size="13" font-weight="400" fill="white" x="60.90698" y="102">breaches.</tspan>
+          </text>
+        </g>
+        <g id="Graphic_16">
+          <circle cx="656.5" cy="68.5" r="36.5000583234192" fill="#08427b"/>
+        </g>
+      </g>
+      <g id="Line_18">
+        <line x1="656.5" y1="215" x2="656.5" y2="294.6" marker-end="url(#StickArrow_Marker_2)" stroke="#c8c8c8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_19">
+        <rect x="622" y="246.3787" width="69" height="27" fill="white"/>
+        <text transform="translate(627 251.8787)" fill="#515556">
+          <tspan font-family="Roboto" font-size="12" font-weight="400" fill="#515556" x=".28222656" y="13">supervises</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

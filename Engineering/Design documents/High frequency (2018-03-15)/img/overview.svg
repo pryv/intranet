@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-544 -129 753 766" width="753pt" height="766pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.5 
+    <dc:date>2017-10-19 09:51:07 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Roboto" font-size="16" panose-1="2 0 0 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-73.24219" underline-thickness="48.828125" slope="0" x-height="538.08594" cap-height="721.1914" ascent="1047.8516" descent="-270.9961" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Roboto-Regular"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <font-face font-family="Helvetica" font-size="12" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="532.22656" cap-height="719.7266" ascent="770.0195" descent="-229.98047" font-weight="bold">
+      <font-face-src>
+        <font-face-name name="Helvetica-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>overview</title>
+    <g>
+      <title>Layer 2</title>
+      <path d="M -479.69495 -10.129434 L -538.03324 57.12165 C -541.8539 61.52604 -543.7699 67.26699 -543.36034 73.08321 L -529.5991 268.4928 C -529.2137 273.96585 -526.7971 279.09737 -522.8235 282.88064 L -362.53907 435.48675 C -362.1798 435.8288 -361.80905 436.15864 -361.42747 436.47564 L -302.81034 485.17295 C -299.04467 488.30135 -294.34312 490.08435 -289.44997 490.2397 L -132.57874 495.2197 C -120.4346 495.60525 -110.27728 486.073 -109.89176 473.92886 C -109.8659 473.1142 -109.88532 472.2988 -109.94995 471.4863 L -120.74243 335.8095 C -121.49341 326.36853 -128.20216 318.4677 -137.39651 316.19616 L -282.72335 280.29188 C -288.64075 278.82993 -293.6864 274.9785 -296.65706 269.6561 L -336.8519 197.64034 C -338.90725 193.95784 -339.86086 189.76218 -339.59915 185.55304 L -329.2828 19.6314 C -328.56176 8.035044 -336.9826 -2.1228234 -348.5116 -3.563952 L -460.34763 -17.543454 C -467.62965 -18.453707 -474.8861 -15.672998 -479.69495 -10.129434 Z" fill="#c33032" fill-opacity=".5"/>
+      <path d="M 42.99725 -12.999863 L -300.82565 4.096303 C -311.12872 4.6086104 -319.35187 12.873144 -319.81245 23.17866 L -326.77028 178.86 C -326.92097 182.23177 -326.2159 185.58685 -324.72076 188.61275 L -289.10027 260.70183 C -286.49928 265.96575 -281.7166 269.82085 -276.02045 271.2449 L -87.25913 318.4352 C -85.75811 318.81047 -84.21862 319.0103 -82.67155 319.03064 L 47.678607 320.74577 C 58.455434 320.88757 67.40646 312.46437 67.919105 301.6988 L 82.04751 5.002319 C 82.52459 -5.0164493 74.78953 -13.525019 64.77076 -14.002103 C 64.180825 -14.030195 63.58987 -14.029493 63 -14 L 43.00275 -13.000138 C 43.000917 -13.000046 42.999083 -12.999954 42.99725 -12.999863 Z" fill="#2aa5f3" fill-opacity=".5988116"/>
+    </g>
+    <g>
+      <title>Layer 1</title>
+      <path d="M -286 -129 L -163 -129 C -158.58172 -129 -155 -125.41828 -155 -121 L -155 -79 C -155 -74.58172 -158.58172 -71 -163 -71 L -286 -71 C -290.41828 -71 -294 -74.58172 -294 -79 L -294 -121 C -294 -125.41828 -290.41828 -129 -286 -129 Z" fill="#bdbcc2"/>
+      <text transform="translate(-289 -110.5)" fill="#f6f6ff">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="15.046875" y="17" textLength="98.90625">data collector</tspan>
+      </text>
+      <path d="M -484.07707 26.802194 L -361.07707 26.802194 C -356.6588 26.802194 -353.07707 30.383916 -353.07707 34.802194 L -353.07707 76.80219 C -353.07707 81.22047 -356.6588 84.80219 -361.07707 84.80219 L -484.07707 84.80219 C -488.49534 84.80219 -492.07707 81.22047 -492.07707 76.80219 L -492.07707 34.802194 C -492.07707 30.383916 -488.49534 26.802194 -484.07707 26.802194 Z" fill="#c33032"/>
+      <text transform="translate(-487.07707 34.802194)" fill="#f6f6ff">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="35.859375" y="17" textLength="23.070312">cor</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="58.78125" y="17" textLength="38.335938">e api </tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="40.76953" y="38" textLength="33.78125">(stor</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="74.40234" y="38" textLength="13.828125">e)</tspan>
+      </text>
+      <path d="M -294 -84.26993 C -330.26342 -74.023684 -372.64743 -58.51481 -400 -37 C -423.48677 -18.525924 -431.26825 .74048365 -432.3767 16.899802" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="-431.89767" y="-68.89838" width="113" height="32" fill="#f6f6ff" fill-opacity=".8395412"/>
+      <text transform="translate(-426.89767 -63.39838)" fill="black">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x=".109375" y="17" textLength="28.3125">A cr</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="28.273438" y="17" textLength="43.6875">eate e</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="71.859375" y="17" textLength="8.046875">v</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="79.80469" y="17" textLength="23.085938">ent</tspan>
+      </text>
+      <path d="M -87.92293 26.802194 L 35.077065 26.802194 C 39.495343 26.802194 43.077065 30.383916 43.077065 34.802194 L 43.077065 76.80219 C 43.077065 81.22047 39.495343 84.80219 35.077065 84.80219 L -87.92293 84.80219 C -92.34121 84.80219 -95.92293 81.22047 -95.92293 76.80219 L -95.92293 34.802194 C -95.92293 30.383916 -92.34121 26.802194 -87.92293 26.802194 Z" fill="#2aa5f3"/>
+      <text transform="translate(-90.92293 45.302194)" fill="#f6f6ff">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="23.847656" y="17" textLength="81.30469">hf collector</tspan>
+      </text>
+      <path d="M -155 -85.93582 C -115.53217 -75.94496 -68.46726 -60.28998 -40 -37.89838 C -16.198712 -19.176915 -10.145236 .51986064 -11.066143 16.996669" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="-117.23635" y="-78.27146" width="110" height="52" fill="#f6f6ff" fill-opacity=".8395412"/>
+      <text transform="translate(-112.23635 -73.27146)" fill="black">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="2.8984375" y="17" textLength="94.20312">B batch send</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x=".16796875" y="38" textLength="68.734375">data for e</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="68.80078" y="38" textLength="8.046875">v</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="76.74609" y="38" textLength="23.085938">ent</tspan>
+      </text>
+      <path d="M -461.82707 233.75 L -461.82707 163.75 C -461.82707 158.92 -444.24307 155 -422.57707 155 C -400.91107 155 -383.32707 158.92 -383.32707 163.75 L -383.32707 233.75 C -383.32707 238.58 -400.91107 242.5 -422.57707 242.5 C -444.24307 242.5 -461.82707 238.58 -461.82707 233.75" fill="#c33032"/>
+      <path d="M -461.82707 233.75 L -461.82707 163.75 C -461.82707 158.92 -444.24307 155 -422.57707 155 C -400.91107 155 -383.32707 158.92 -383.32707 163.75 L -383.32707 233.75 C -383.32707 238.58 -400.91107 242.5 -422.57707 242.5 C -444.24307 242.5 -461.82707 238.58 -461.82707 233.75 M -461.82707 163.75 C -461.82707 168.58 -444.24307 172.5 -422.57707 172.5 C -400.91107 172.5 -383.32707 168.58 -383.32707 163.75" stroke="#f6f6ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(-456.82707 192.625)" fill="#f6f6ff">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="5.214844" y="17" textLength="58.07031">main db</tspan>
+      </text>
+      <line x1="-422.57707" y1="84.80219" x2="-422.57707" y2="145.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="-488.57707" y="97.97013" width="132" height="32" fill="#f6f6ff" fill-opacity=".8395412"/>
+      <text transform="translate(-483.57707 103.47013)" fill="black">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x=".328125" y="17" textLength="41.601562">A.1 cr</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="41.78125" y="17" textLength="79.890625">eate model</tspan>
+      </text>
+      <path d="M -65.672935 248.5 L -65.672935 178.5 C -65.672935 173.67 -48.088935 169.75 -26.422935 169.75 C -4.756935 169.75 12.827065 173.67 12.827065 178.5 L 12.827065 248.5 C 12.827065 253.33 -4.756935 257.25 -26.422935 257.25 C -48.088935 257.25 -65.672935 253.33 -65.672935 248.5" fill="#2aa5f3"/>
+      <path d="M -65.672935 248.5 L -65.672935 178.5 C -65.672935 173.67 -48.088935 169.75 -26.422935 169.75 C -4.756935 169.75 12.827065 173.67 12.827065 178.5 L 12.827065 248.5 C 12.827065 253.33 -4.756935 257.25 -26.422935 257.25 C -48.088935 257.25 -65.672935 253.33 -65.672935 248.5 M -65.672935 178.5 C -65.672935 183.33 -48.088935 187.25 -26.422935 187.25 C -4.756935 187.25 12.827065 183.33 12.827065 178.5" stroke="#f6f6ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(-60.672935 207.375)" fill="#f6f6ff">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="6.558594" y="17" textLength="47.07031">hf stor</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="53.48047" y="17" textLength="8.460938">e</tspan>
+      </text>
+      <line x1="-26.422935" y1="84.80219" x2="-26.422935" y2="159.85" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M -311 361 L -188 361 C -183.58172 361 -180 364.58172 -180 369 L -180 411 C -180 415.4183 -183.58172 419 -188 419 L -311 419 C -315.41828 419 -319 415.4183 -319 411 L -319 369 C -319 364.58172 -315.41828 361 -311 361 Z" fill="#c33032"/>
+      <text transform="translate(-314 369)" fill="#f6f6ff">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="35.859375" y="17" textLength="23.070312">cor</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="58.78125" y="17" textLength="34.359375">e api</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="39.003906" y="38" textLength="37.4375">(quer</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="76.58203" y="38" textLength="13.414062">y)</tspan>
+      </text>
+      <line x1="-275.74437" y1="361" x2="-380.74862" y2="244.9704" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="-63.922935" y="108.71509" width="75" height="32" fill="#f6f6ff" fill-opacity=".8395412"/>
+      <text transform="translate(-58.922935 114.21509)" fill="black">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x=".359375" y="17" textLength="55.96875">B.3 stor</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="56.17969" y="17" textLength="8.460938">e</tspan>
+      </text>
+      <circle cx="-249.5" cy="556" r="9.000014" fill="white"/>
+      <circle cx="-249.5" cy="556" r="9.000014" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="-249.5" y1="565" x2="-249.5" y2="592" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="-249.5" y1="592" x2="-258.5" y2="619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="-249.5" y1="592" x2="-240.5" y2="619" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="-249.5" y1="574" x2="-267.5" y2="574" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line x1="-231.5" y1="574" x2="-249.5" y2="574" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <text transform="translate(-271.5 620.5)" fill="black">
+        <tspan font-family="Helvetica" font-size="12" font-weight="bold" x="8.658203" y="11" textLength="26.683594">User</tspan>
+      </text>
+      <line x1="-249.5" y1="419" x2="-249.5" y2="537.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path d="M -286 184.5 L -163 184.5 C -158.58172 184.5 -155 188.08172 -155 192.5 L -155 234.5 C -155 238.91828 -158.58172 242.5 -163 242.5 L -286 242.5 C -290.41828 242.5 -294 238.91828 -294 234.5 L -294 192.5 C -294 188.08172 -290.41828 184.5 -286 184.5 Z" fill="#2aa5f3"/>
+      <text transform="translate(-289 203)" fill="#f6f6ff">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="2.9648438" y="17" textLength="47.07031">hf stor</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" fill="#f6f6ff" x="49.88672" y="17" textLength="76.14844">e manager</tspan>
+      </text>
+      <line x1="-386.1515" y1="84.80219" x2="-268.67073" y2="178.33375" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="-362.28016" y="121.5951" width="110" height="52" fill="#f6f6ff" fill-opacity=".8395412"/>
+      <text transform="translate(-357.28016 126.5951)" fill="black">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="11.433594" y="17" textLength="81.109375">A.2 initiate </tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x=".21484375" y="38" textLength="54.1875">measur</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="54.253906" y="38" textLength="45.53125">ement</tspan>
+      </text>
+      <path d="M -233.87945 361 C -227.20302 345.9892 -220.21388 326.0519 -217 303.3619 C -214.30424 284.3298 -214.7471 266.7674 -216.32988 252.31302" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="-262.81912" y="259.7629" width="95" height="52" fill="#f6f6ff" fill-opacity=".8395412"/>
+      <text transform="translate(-257.81912 264.7629)" fill="black">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="1.9960938" y="17" textLength="32.882812">C.2 r</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="34.73047" y="17" textLength="31.96875">etrie</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="66.59766" y="17" textLength="8.046875">v</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="74.54297" y="17" textLength="12.4375">e </tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="1.796875" y="38" textLength="81.40625">data points</tspan>
+      </text>
+      <rect x="-355.07527" y="298.1694" width="92" height="52" fill="#f6f6ff" fill-opacity=".8395412"/>
+      <text transform="translate(-350.07527 303.1694)" fill="black">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x=".49609375" y="17" textLength="32.882812">C.1 r</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="33.23047" y="17" textLength="31.96875">etrie</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="65.09766" y="17" textLength="8.046875">v</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="73.04297" y="17" textLength="8.460938">e</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="6.503906" y="38" textLength="68.99219">metadata</tspan>
+      </text>
+      <rect x="-306.5" y="458.6007" width="114" height="32" fill="#f6f6ff" fill-opacity=".8395412"/>
+      <text transform="translate(-301.5 464.1007)" fill="black">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x=".04296875" y="17" textLength="19.59375">C r</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="19.488281" y="17" textLength="31.96875">etrie</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="51.35547" y="17" textLength="8.046875">v</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="59.30078" y="17" textLength="44.65625">e data</tspan>
+      </text>
+      <line x1="-95.92293" y1="55.802194" x2="-343.17707" y2="55.802194" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="-302.4296" y="29.802194" width="136" height="52" fill="#f6f6ff" fill-opacity=".8395412"/>
+      <text transform="translate(-297.4296 34.802194)" fill="black">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x=".40625" y="17" textLength="125.1875">B.1 check access</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="14.972656" y="38" textLength="96.05469">get metadata</tspan>
+      </text>
+      <path d="M 33.342205 26.80219 C 61.32662 15.255804 92.67886 5.619405 112 10 C 153.48235 19.405105 159.21591 76.02401 120 89 C 104.36888 94.17212 77.93566 89.94681 51.794994 82.99382" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="84.46779" y="37.49644" width="124" height="32" fill="#f6f6ff" fill-opacity=".8395412"/>
+      <text transform="translate(89.46779 42.99644)" fill="black">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x=".14453125" y="17" textLength="113.71094">B.2 check types</tspan>
+      </text>
+      <line x1="-155" y1="213.5" x2="-75.572935" y2="213.5" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <rect x="-144.37791" y="187.5" width="70" height="52" fill="#f6f6ff" fill-opacity=".8395412"/>
+      <text transform="translate(-139.37791 192.5)" fill="black">
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x="11.644531" y="17" textLength="36.710938">C.2.1</tspan>
+        <tspan font-family="Roboto" font-size="16" font-weight="500" x=".359375" y="38" textLength="59.28125">get data</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

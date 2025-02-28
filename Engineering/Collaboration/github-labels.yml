@@ -1,0 +1,97 @@
+# Kind
+- name: bug
+  color: '#B60205'
+  description: Something isn't working
+  aliases:
+    - Bug
+    - '- Bug -'
+- name: chore
+  color: '#F9D0C4'
+  description: ''
+  aliases:
+    - Chore
+- name: feature
+  color: '#0E8A16'
+  description: New feature or enhancement
+  aliases:
+    - enhancement
+    - Feature
+    - '- Feature -'
+- name: question
+  color: '#cc317c'
+  description: ''
+  aliases:
+    - Question
+    - '- Question -'
+- name: refactoring
+  color: '#C2E0C6'
+  description: Improve the quality of code or content
+  aliases:
+    - refactor
+    - Refactoring
+    - techdebt
+- name: customer support
+  color: '#1D76DB'
+  description: Linked to customer support request(s)
+  aliases:
+    - customer
+    - Customer support
+    - Support
+# Status
+- name: 🔥 critical
+  color: '#D93F0B'
+  description: Needs work urgently - significant risk involved
+  aliases:
+    - 🔥 Critical
+    - critical/security
+- name: 📝 design needed
+  color: '#527E71'
+  description: Needs design work before implementation can be considered
+  aliases:
+    - 📝 Design needed
+    - needs design
+    - needs_design
+- name: ╳ duplicate
+  color: '#cfd3d7'
+  description: This issue or pull request already exists
+  aliases:
+    - ╳ Duplicate
+    - duplicate
+- name: ╳ won't fix
+  color: '#ffffff'
+  description: This will not be worked on
+  aliases:
+    - ╳ Won't fix
+    - wontfix
+# Area
+- name: demo
+  color: '#C5DEF5'
+  description: Work on demonstration tools/software
+  aliases:
+    - Demo
+- name: documentation
+  color: '#FBCA04'
+  description: Improvements or additions to documentation
+  aliases:
+    - Documentation
+- name: infrastructure / deployment
+  color: '#d876e3'
+  description: ''
+  aliases:
+    - Infrastructure / Deployment
+- name: marketing & communication
+  color: '#006B75'
+  description: Linked to/coordinated with marketing and/or communication work
+  aliases:
+    - Marketing & Communication
+- name: organisation & coordination
+  color: '#D4C5F9'
+  description: Work that allows us to work better
+  aliases:
+    - Organisation & Coordination
+- name: security
+  color: '#ff9d18'
+  description: Involves security aspects
+  aliases:
+    - dependencies
+    - Security

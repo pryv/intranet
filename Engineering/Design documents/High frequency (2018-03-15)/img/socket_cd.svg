@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="603 155 588 349" width="49pc" height="349pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.5 
+    <dc:date>2017-11-27 08:23:53 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="bold">
+      <font-face-src>
+        <font-face-name name="Avenir-Heavy"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Helvetica" font-size="13" units-per-em="1000" underline-position="-75.68359" underline-thickness="49.316406" slope="0" x-height="522.9492" cap-height="717.28516" ascent="770.0195" descent="-229.98047" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Helvetica"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="CrowBall_Marker" viewBox="-1 -4 13 8" markerWidth="13" markerHeight="8" color="#7f7f7f">
+      <g>
+        <path d="M 10.8 0 L 3.6 0 M 10.8 2.4 L 4.8 0 L 10.8 -2.4 M .527208 1.272792 C -.175734 .5698482 -.175734 -.5698482 .527208 -1.272792 C 1.23015 -1.975734 1.76985 -1.975734 3.072792 -1.272792 C 3.775736 -.5698482 3.775736 .5698482 3.072792 1.272792 C 2.36985 1.975734 1.23015 1.975734 .527208 1.272792" fill="none" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" width="588" height="349"/>
+    <g>
+      <title>Layer 1</title>
+      <rect x="604" y="181" width="167" height="50" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="604" y="156" width="167" height="25" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(610 159.5)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="15.75" y="13" textLength="50.544">Connect</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="66.307" y="13" textLength="72.943">ionManager</tspan>
+      </text>
+      <rect x="842" y="181" width="167" height="50" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="842" y="156" width="167" height="25" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(848 159.5)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="27.4305" y="13" textLength="100.139">Map&lt;string, …&gt;</tspan>
+      </text>
+      <path d="M 771 193.5 L 834 193.5 L 842 193.5" stroke="#7f7f7f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="842" y="303" width="167" height="50" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(848 309)" fill="#aeaeae">
+        <tspan font-family="Helvetica" font-size="13" font-weight="500" fill="#aeaeae" x="0" y="13" textLength="86.70898">container class</tspan>
+      </text>
+      <rect x="842" y="278" width="167" height="25" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(848 281.5)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="32.494" y="13" textLength="90.012">SocketContext</tspan>
+      </text>
+      <line x1="925.5" y1="231" x2="925.5" y2="255.4" marker-end="url(#CrowBall_Marker)" stroke="#7f7f7f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="1023" y="453" width="167" height="50" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(1029 459)" fill="#aeaeae">
+        <tspan font-family="Helvetica" font-size="13" font-weight="500" fill="#aeaeae" x="0" y="13" textLength="108.36084">e.g. ‘/USERNAME’</tspan>
+      </text>
+      <rect x="1023" y="428" width="167" height="25" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(1029 431.5)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="42.114" y="13" textLength="70.772">Namespace</tspan>
+      </text>
+      <path d="M 1028.8711 321.66016 L 1028.8711 371.16406 L 1028.8711 394.66406 L 1106.5 394.66406 L 1106.5 420 L 1106.5 428" stroke="#7f7f7f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="661" y="453" width="167" height="50" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(667 459)" fill="#aeaeae">
+        <tspan font-family="Helvetica" font-size="13" font-weight="500" fill="#aeaeae" x="0" y="13" textLength="18.059082">NA</tspan>
+        <tspan font-family="Helvetica" font-size="13" font-weight="500" fill="#aeaeae" x="17.100586" y="13" textLength="131.4917">TS to ‘userName.sok1’</tspan>
+      </text>
+      <rect x="661" y="428" width="167" height="25" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(667 431.5)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="39.6895" y="13" textLength="56.836">Subscript</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="96.5385" y="13" textLength="18.772">ion</tspan>
+      </text>
+      <path d="M 1009 315.5 L 1017 315.5 L 1029.4609 315.5 L 1029.4609 321.66016 L 1029.4609 395.16016 L 744.5 395.16016 L 744.5 420 L 744.5 428" stroke="#7f7f7f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <rect x="842" y="453" width="167" height="50" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(848 459)" fill="#aeaeae">
+        <tspan font-family="Helvetica" font-size="13" font-weight="500" fill="#aeaeae" x="0" y="13" textLength="101.16895">#handleEvent(…)</tspan>
+      </text>
+      <rect x="842" y="428" width="167" height="25" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <text transform="translate(848 431.5)" fill="#515556">
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="49.4395" y="13" textLength="26.975">Publ</tspan>
+        <tspan font-family="Avenir" font-size="13" font-weight="bold" fill="#515556" x="76.4275" y="13" textLength="29.133">isher</tspan>
+      </text>
+      <line x1="828" y1="465.5" x2="842" y2="465.5" stroke="#7f7f7f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line x1="1009" y1="465.5" x2="1023" y2="465.5" stroke="#7f7f7f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
